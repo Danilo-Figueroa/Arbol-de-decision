@@ -1,10 +1,10 @@
-# 🌳 Árbol de Decisión: Predicción de Oferta Móvil
+# Árbol de Decisión: Predicción de Oferta Móvil
 
 Este repositorio contiene la presentación ejecutiva sobre la construcción y aplicación del algoritmo para predecir la aceptación de un plan de datos móviles en el sector de telecomunicaciones.
 
 ---
 
-## 📑 Contenido de la Presentación
+## Contenido de la Presentación
 
 En las diapositivas adjuntas se aborda la resolución completa del caso práctico, estructurada de la siguiente manera:
 
